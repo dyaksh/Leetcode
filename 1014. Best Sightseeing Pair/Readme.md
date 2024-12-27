@@ -1,4 +1,4 @@
-# 1014 Best Sightseeing Pair SOlution
+# 1014 Best Sightseeing Pair Solution
 
 ## Problem Statement
 
